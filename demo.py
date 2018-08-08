@@ -26,3 +26,8 @@ c2.deposit(4000.00)
 c2.withdraw(12000.00)
 c2.display()
 
+c3=Cust("sita","india",1002,1000.00)
+print(c3)
+c3.deposit(4000.00)
+c3.withdraw(12000.00)
+c3.display()
