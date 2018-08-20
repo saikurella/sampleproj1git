@@ -6,4 +6,4 @@ print(x*y)
 try:
     print(x/y)
 except(ZeroDivisionError):
-    print("erro occured")
+    print("error occured")
